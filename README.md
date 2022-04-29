@@ -1,4 +1,4 @@
-[Blog-and-Projects](https://aurora.kd5hiy.us/blog-and-projects) | **[[logs|Logs]]** | **[[https://dmrtexas.net|DMRTexas.net]]** | **[[becoming-a-ham|Becoming a Ham]]**
+[Blog and Projects](https://aurora.kd5hiy.us/blog-and-projects) | [Logs](https://aurora.kd5hiy.us/logs) | [DMRTexas](https://dmrtexas.net) | [Becoming a Ham](becoming-a-ham)
 
 ====== Welcome ======
 
